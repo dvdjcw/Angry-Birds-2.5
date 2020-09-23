@@ -1,2 +1,2 @@
-# Angry-Birds-2.5
-creating constraint bodies
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
